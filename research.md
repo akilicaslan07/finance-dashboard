@@ -1,0 +1,2 @@
+Personal Finance Dashboard Research
+The user's main objective is to conduct in-depth research into best practices for personal invoice/expense dashboards. The primary goals are to identify the top 5 most important metrics and the most critical UI sections for such dashboards, and then to document all findings in a new file named `research.md`. This research will inform the design and development of their Home Expense Dashboard MVP.
